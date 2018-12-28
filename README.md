@@ -1,2 +1,1 @@
-# omnibot
-A simple Twitch bot with essential utilities.
+ # omnibot - a simple Twitch bot with essential utilities

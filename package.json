@@ -1,0 +1,24 @@
+{
+  "name": "omnibot",
+  "version": "0.0.2",
+  "description": "A simple Twitch bot with essential utilities.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "essentials",
+    "simple",
+    "twitch"
+  ],
+  "author": "zader",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.8.4",
+    "dotenv": "^6.2.0",
+    "obs-websocket-js": "^1.2.0",
+    "tmi.js": "^1.2.1"
+  }
+}
