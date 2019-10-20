@@ -3,27 +3,11 @@ var obsws = require('obs-websocket-js');
 var tmi = require('tmi.js');
 
 var obs = new obsws();
-var tmiSettings = {
-    options: {
-        debug: true
-    },
-    connection: {
-        reconnect: true
-    },
-    identity: {
-        username: "zader",
-        password: process.env.TMI_TOKEN
-    },
-    channels: ["zader"]
-};
 
 const prefix = "!scene";
 
 let sceneList = [],
     originalScenes = [];
-
-var tmiClient = new tmi.client(tmiSettings);
-tmiClient.connect();
 
 obs.connect({ address: 'localhost:4444', password: '' })
 .then(() => {
@@ -44,7 +28,7 @@ obs.connect({ address: 'localhost:4444', password: '' })
     console.log(error);
 });
 
-tmiClient.on('chat', (channel, userstate, message, self) => {
+tmi.on('chat', (channel, userstate, message, self) => {
 
     message = message.toLowerCase();
     if(message.indexOf(prefix) === 0) {
