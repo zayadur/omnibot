@@ -68,23 +68,23 @@ client.on('chat', (channel, userstate, message, self) => {
             client.say("dunnncan", "pepeJAMMER PepeLaugh PepoDance pepeJAMMER PepeLaugh PepoDance pepeJAMMER PepeLaugh PepoDance pepeJAMMER PepeLaugh PepoDance pepeJAMMER PepeLaugh PepoDance pepeJAMMER PepeLaugh PepoDance pepeJAMMER PepeLaugh PepoDance pepeJAMMER PepeLaugh PepoDance pepeJAMMER");
             break;
         case "!length":
-            client.say("dunnncan", "/me You're " + spamNumber() + " inch(es) at full mast! drewpWow");
+            client.say("dunnncan", "/me You're " + spamNumber() + " inch(es) at full mast! weirdChamp");
             break;
         case "!nut":
             client.say("dunnncan", "drewpB drewpR :peanuts:");
             break;
         case "!spam":
-            client.say("dunnncan", "drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow drewpWow drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow drewpWow drewpWow drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow drewpWow drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow drewpWow");
-            client.say("dunnncan", "drewpWow");
+            client.say("dunnncan", "weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp");
             break;
         case "!selfie":
             client.say("dunnncan", "drewpB drewpR drewpB");
@@ -97,37 +97,37 @@ client.on('chat', (channel, userstate, message, self) => {
             client.say("dunnncan", "H");
             break;
         case "!wave":
-            client.say("dunnncan", "drewpP");
-            client.say("dunnncan", "drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP");
-            client.say("dunnncan", "drewpP");
-            client.say("dunnncan", "drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP");
-            client.say("dunnncan", "drewpP");
-            client.say("dunnncan", "drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP drewpP");
-            client.say("dunnncan", "drewpP drewpP");
-            client.say("dunnncan", "drewpP");
+            client.say("dunnncan", "weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp weirdChamp");
+            client.say("dunnncan", "weirdChamp");
             break;
         case "!wins":
             client.say("dunnncan", "/me crystal ball says 0 wins");
@@ -136,8 +136,8 @@ client.on('chat', (channel, userstate, message, self) => {
 })
 
 client.on("resub", function (channel, username, months, message, userstate, methods) {
-    client.say("dunnncan", "/me SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE");
+    client.say("dunnncan", "/me SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE");
 })
 client.on("subscription", function (channel, username, method, message, userstate) {
-    client.say("dunnncan", "/me SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE drewpP SUBHYPE");
+    client.say("dunnncan", "/me SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE weirdChamp SUBHYPE");
 });

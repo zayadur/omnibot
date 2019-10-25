@@ -66,23 +66,23 @@ client.on('chat', (channel, userstate, message, self) => {
             client.say("drewpdrawers", "/me !9ball | | !ass | !breathe | !clit | !length | !nut | !selfie | !spam | !trash | !wave | !wins");
             break;
         case "!length":
-            client.say("drewpdrawers", "/me You're " + spamNumber() + " inch(es) at full mast! drewpWow");
+            client.say("drewpdrawers", "/me You're " + spamNumber() + " inch(es) at full mast! drewpP");
             break;
         case "!nut":
             client.say("drewpdrawers", "drewpB drewpR :peanuts:");
             break;
         case "!spam":
-            client.say("drewpdrawers", "drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow drewpWow drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow drewpWow drewpWow drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow drewpWow drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow drewpWow");
-            client.say("drewpdrawers", "drewpWow");
+            client.say("drewpdrawers", "drewpP");
+            client.say("drewpdrawers", "drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP drewpP drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP drewpP drewpP drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP drewpP drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP drewpP");
+            client.say("drewpdrawers", "drewpP drewpP");
+            client.say("drewpdrawers", "drewpP");
             break;
         case "!selfie":
             client.say("drewpdrawers", "drewpB drewpR drewpB");
